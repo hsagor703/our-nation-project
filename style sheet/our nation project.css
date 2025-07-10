@@ -256,3 +256,35 @@ body{
   border: none;
 }
 /* future section ends here  */
+
+/* comment section start here  */
+.comment-section{
+  padding: 48px 24px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  margin-bottom: 80px;
+}
+
+.comment-img{
+  position: absolute;
+  margin-top: -22px;
+}
+
+.comment-description{
+  position: relative;
+  margin-bottom: 12px;
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 16px;
+}
+
+.comment-holder-name{
+  font-size: 20px;
+  color: rgba(14, 14, 14, 0.8);
+  font-weight: 600;
+}
+
+.comment-holder-address{
+  font-size: 16px;
+  color: rgba(14, 14, 14, 0.6);
+}
+/* comment section ends here  */
