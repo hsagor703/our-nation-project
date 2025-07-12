@@ -289,6 +289,64 @@ body{
 }
 /* comment section ends here  */
 
+/* opinion section start here  */
+.opinion-section{
+  margin-bottom: 80px;
+}
+.opinion-heading{
+  font-size: 40px;
+  font-weight: bold;
+  color: #0E0E0E;
+}
+
+.opinion-items
+.opinion-item{
+  background-color: #ffffff;
+  padding: 32px;
+}
+.heading-item{
+  display: flex;
+  justify-content: space-between;
+  background-color: #C6E4D6;
+  padding: 24px;
+}
+.question{
+  font-size: 20px;
+  font-weight: 600;
+  color: #0E0E0E;
+}
+.select-option{
+  font-size: 20px;
+  font-weight: 600;
+  color: #0E0E0E;
+}
+.opinion-form {
+  font-size: 16px;
+  font-weight: 600;
+  color: #0E0E0E;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+}
+
+.select-items{
+  font-size: 16px;
+  font-weight: 600;
+  color: #0E0E0E;
+}
+
+.opinion-label{
+  display: inline-block;
+  padding: 24px;
+}
+
+.select-items{
+  padding: 12px 16px 12px 16px;
+  margin-left: 340px;
+  background-color: #C6E4D6;
+}
+
+
+/* opinion section ends here  */
+
 /* news feed section start here */
 .news-feed-section{
 
